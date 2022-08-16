@@ -48,6 +48,7 @@ If NODE_ENV is development, we apply Webpack middlewares for bundling and Hot Mo
 
 We use React Router's match function for handling all page requests so that browser history works.
 
+
 All the routes are defined in `client/routes.js`. React Router renders components according to route requested.
 
 ```js
